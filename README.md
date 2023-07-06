@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lee, a highly motivated and passionate Cyber Security Professional</h1>
+<h1>Hi, I'm Lee! Highly motivated and passionate Cyber Security Professional.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
